@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This project aims to minimize credit loss for Lending Club by analyzing past loan data. Steps include data cleaning, univariate and bivariate analysis to identify patterns related to loan default. Key factors such as loan maturity, borrower grade, and state-wise default rates are considered for informed lending decisions and risk assessment optimization.
 
 
 ## Table of Contents
