@@ -73,4 +73,10 @@
 - Thanks to Upgrad guiding team and colleagues for giving us the opportunity to explore this project.
 
 ## Contact
-Created by @isidharthrai - feel free to contact me!
+Reach out the creators on,
+- Linkedin:
+    - [Sidharth Rai](https://linkedin.com/in/isidharthrai)
+    - [Sourav Sirohi](https://www.linkedin.com/in/souravsirohi/)
+- Github:
+    - [Sidharth Rai](https://github.com/isidharthrai)
+    - [Sourav Sirohi](https://github.com/SouravSirohi)  
